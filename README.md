@@ -1,6 +1,6 @@
-# Jogo de Amigo Secreto
+# Jogo de Amigo Secreto Nordestino
 
-Este é um simples jogo de **Amigo Secreto** desenvolvido com HTML, CSS e JavaScript. O jogo permite que os usuários adicionem nomes de amigos, visualizem a lista e realizem o sorteio aleatório de um amigo secreto.
+Este é um simples jogo de **Amigo Secreto Nordestino** desenvolvido com HTML, CSS e JavaScript. O jogo permite que os usuários adicionem nomes de amigos, visualizem a lista e realizem o sorteio aleatório de um amigo secreto, de forma divertida e lúdica, fazendo referência a termos da linguagem nordestina.
 
 ## Funcionalidades
 
